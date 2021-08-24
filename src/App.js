@@ -4,7 +4,7 @@ import InstagramEmbed from "react-instagram-embed";
 function App() {
   return (
     <div className="App">
-      <h1>holaaa</h1>
+      <h1>holaaaa</h1>
       <InstagramEmbed
         url="https://www.instagram.com/p/CSzxv-KlN68/?utm_source=ig_web_copy_link"
         clientAccessToken="628148468161185|4b3631c2b3f1ff82d041be11fd806d0d"
