@@ -7,7 +7,7 @@ function App() {
       <h1>holaaa</h1>
       <InstagramEmbed
         url="https://www.instagram.com/p/CSzxv-KlN68/?utm_source=ig_web_copy_link"
-        clientAccessToken="282819320316529|4b3631c2b3f1ff82d041be11fd806d0d"
+        clientAccessToken="4f10f9295b336a47bdfe1968fb03d921|4b3631c2b3f1ff82d041be11fd806d0d"
         maxWidth={320}
         hideCaption={false}
         containerTagName="div"
